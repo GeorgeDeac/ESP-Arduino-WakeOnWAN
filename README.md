@@ -7,7 +7,7 @@ Note:
 
 -If you don't remember the last local ip the machine had send the magic packets over xxx.xxx.xxx.255 to broadcast it to the whole network
 
--Make sure your ethernet card supports magic packets
+-Make sure your ethernet card supports wol with magic packets
 
 
   
